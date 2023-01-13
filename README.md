@@ -4,7 +4,7 @@ To develop a website to display details about the places around my house.
 
 # Design Steps:
 ## Step 1:
-Create a HTML file and add the images using <img> tag
+Create a HTML file and add the images using img tag
 
 ## Step 2:
 Describe about the images(places).
